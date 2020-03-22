@@ -1,5 +1,5 @@
 ##Electricity Bill Calculator, given the units consumed.
-## if-else ladder
+## using if-else ladder
 n=eval(input("Enter Units : "))
 price=0
 if n<=100:
